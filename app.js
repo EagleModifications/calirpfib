@@ -18,7 +18,7 @@ const app = express();
 // --- CONFIG ---
 const CLIENT_ID = "1410608101807357952";
 const CLIENT_SECRET = "LWoDc5f7vHpA1iHtJB8U9EM6bDich5nd";
-const CALLBACK_URL = "http://localhost:3000/callback";
+const CALLBACK_URL = "https://calirpfib.onrender.com/callback";
 const GUILD_ID = "1410607101054816388";
 const REQUIRED_ROLE_ID = "1410607189739049082";
 
